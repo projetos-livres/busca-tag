@@ -27,3 +27,6 @@ O sistema deve exibir as informações na tela em formato de tabela.
 - Verificar se a tag é de fato verdadeira; 
 - Letras legíveis; 
 - Contraste de cores; 
+
+
+Equipe: wilson, gabriel e bruna
